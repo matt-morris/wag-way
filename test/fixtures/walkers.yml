@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: robbyn@koelpin-shields.test
+  first_name: Idell
+  last_name: Schoen
+  avatar_url: https://robohash.org/modisequiminima.png?size=300x300&set=set1
+  latitude: 39.7980762606872
+  longitude: -104.95085863090748
+  radius: 200
+  hourly_rate_in_cents: 11671
+
+two:
+  email: josiah_mante@mayert-fadel.test
+  first_name: Korey
+  last_name: Stanton
+  avatar_url: https://robohash.org/explicaboinciduntmaxime.png?size=300x300&set=set1
+  latitude: 38.6637404295184
+  longitude: -104.96613136863
+  radius: 400
+  hourly_rate_in_cents: 10492

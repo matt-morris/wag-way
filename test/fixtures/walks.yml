@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: 1
+  owner: one
+  walker: one
+  start_at: 2023-09-14 10:45:00
+  end_at: 2023-09-14 11:45:00
+  latitude: 1.5
+  longitude: 1.5
+
+two:
+  status: 1
+  owner: two
+  walker: two
+  start_at: 2023-09-14 20:24:49
+  end_at: 2023-09-14 20:24:49
+  latitude: 1.5
+  longitude: 1.5
